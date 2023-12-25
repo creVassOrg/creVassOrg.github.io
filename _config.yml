@@ -1,9 +1,9 @@
 # Site settings
-title: DRAIN.tips
-email: bottom@drain.tips
-description: An AI/ML exercise in gameplaying, like AlphaGo ... except not as smelly.
+title: creVass.ORG
+email: plumbers@creVass.ORG
+description: Hybrid intelligence for plumbing / electric / HVAC / homelab.
 twitter_username: DRAIN_tips
-github_username:  DRAINtips
+github_username:  creVass.ORG
 
 # Build settings
 markdown: kramdown
