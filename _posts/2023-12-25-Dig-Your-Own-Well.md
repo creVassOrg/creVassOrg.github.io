@@ -1,14 +1,20 @@
 ---
 layout: post
-title:  "The AWESOME of curated lists"
+title:  "The AWESOME information fount of curated knowledge"
 subtitle:  "Dig your well before you are thirsty"
 date:   2023-12-01 4:30:00
 categories: template
 ---
 
-# Dig your well before you are thirsty
+***If you wanted to suck up all of the utilitarian home maintenance / home repair knowledge from different corners of the interwebs, how would you go about it? ***
 
-NOBODY else is going to do it ... if you don't want to take resposibility for it, you will end paying dearly for polluted water when you are dying of thirst. 
+You might ask an AI ... the AI would probably recommend some sort of cliche suggestion such as starting with a search engine, but you would quickly discover that the biggest limitation of search engines is that search results are a reflection of who generates ad revenues for the search engines ... and this won't change with new-fangled LLM AI models ... so you would probably gravitate toward enlisting the legit *mensch* content providers who've been helping homeowners with solid content marketing advice ... and you'd try to do it in such a way that sharing/spreading their information would help those who genuinely provide content would somehow be rewarded with better customers so that the content providers earned the most money rather than the search engines.
+
+GENERALLY, though ... there's never going to be a substitute for practical, critical-minded, shrewd people doing a better job of curating their own well of knowledge and then maybe devising an information-sharing incentive system that rewards people for sharing solid knowledge with others.
+
+# Dig your well, or fount of knowledge, before you are thirsty for knowledge you need
+
+*Do not expect that ANYBODY else is going to do it for you* ... if you don't want to take resposibility for it and accept the challenge to dig while the digging is easy ... you will end paying dearly for something polluted when you are dying of thirst. 
 
 Give up your drinking and the other habits that are not really helping you ... try to make yourself a teensy bit more proficient every day.  
 
