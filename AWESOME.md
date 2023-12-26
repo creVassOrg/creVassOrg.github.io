@@ -72,7 +72,7 @@ permalink: /Awesome/
 
 32) Cleaning, dust removal, cleaning, polishing, vaccuums, carpet cleaners, robotic and human cleaners
 
-33) BIM, building information modeling and documentation, CAD, and other design and documentation issues
+33) BIM, architecural design/upcycling, interior design and lighting, technical communication for contractors/permitting
 
 34) Microscopy, lab equipment, hoods and ventilation, upcycling microscopes with better lenses and camera sensors
 
@@ -84,187 +84,143 @@ permalink: /Awesome/
 
 38) Home theater / media, video editing, data/media asset management, NAS and 3-2-1 backup, and other data center issues
 
-39) Architecural design/upcycling, interior design and lighting, design communication for contractors/permitting
+39) Food preservation/canning, homebrewing, sausage making, cheesemaking, horseradish, kimchi, sauerkraut, food preservation parties
 
 40) Houseplants, indoor gardening, hydroponics, aquaponics, seedstarting, nursery plants and other indoor growing issues
 
-41)
 
-42) 
 
-43)
+### AI Brainstorms the following additional items
+
+*Yeah, yeah, yeah, we know, we know* ... maybe AI tends to gives repititous, duplicative answers ... but not always; sometimes there's something we've forgotten ... some of these will duplicates with those above, but perhaps the lists should be broken down into more granular topics ... and we can use some of these in our prompt engineering to refine these to an even greater degree of granularity.
+
+#### Maintenance and Repairs:
+
+Roof maintenance and repairs
+Gutters and downspout cleaning
+Foundation and siding inspection and repair
+Sealing windows and doors for weatherproofing
+Maintaining HVAC system (cleaning filters, checking efficiency)
+Plumbing system inspection and repairs
+Electrical system inspection and upgrades
+Appliance maintenance and replacement
+Chimney cleaning and inspection
+Lawn and garden maintenance
+Snow removal and ice management
+Pest control and prevention
+Smoke detector and fire extinguisher maintenance
+Water heater maintenance and replacement
+Septic system maintenance (if applicable)
+
+#### Financial and Legal:
+
+Property taxes and insurance premiums
+Budgeting and financial planning for repairs and upgrades
+Home warranty options
+Estate planning and inheritance considerations
+Property value and potential renovations
+Building codes and zoning regulations
+Permits and inspections needed for renovations
+Paperwork and documentation (warranties, insurance policies, home purchase documents)
+Energy efficiency improvements and cost savings
+Tax benefits and deductions for homeowners
+
+#### Security and Safety:
+
+Home security system options (alarm, CCTV)
+Door and window locks and security upgrades
+Fire escape plan and emergency preparedness
+Poison control and first aid kit
+Carbon monoxide detector maintenance
+Safe storage for valuables
+Outdoor lighting and security measures
+Personal safety measures in the home
+Neighborhood watch programs and safety resources
+Pet safety and prevention of accidents
+
+#### Comfort and Convenience:
+
+Lighting upgrades for energy efficiency and ambiance
+Temperature control and thermostat optimization
+Smart home technology and automation options
+Noise reduction and soundproofing
+Indoor air quality control (ventilation, air purifiers)
+Comfortable furniture and layout
+Storage solutions and decluttering strategies
+Accessible walkways and features (if needed)
+Childproofing measures (if applicable)
+Pet-friendly features and considerations
+
+#### Environmental Impact:
+
+Recycling and waste reduction practices
+Water conservation measures (low-flow fixtures, landscaping)
+Energy-efficient appliances and lighting
+Reducing carbon footprint (solar panels, insulation)
+Using eco-friendly cleaning products
+Sustainable landscaping and yard care practices
+Composting food scraps and yard waste
+Choosing durable and reusable materials
+Supporting local businesses and environmentally conscious brands
+Educating family and guests about green living
+
+#### Personalization and Design:
+
+Choosing paint colors and interior design themes
+Updating furniture and decor
+Adding personal touches and artwork
+Creating a functional and aesthetically pleasing space
+Optimizing natural light and ventilation
+Creating outdoor living spaces (patios, decks)
+Water features and landscaping elements
+Privacy considerations and fencing options
+Accessibility for guests and visitors
+Reflecting individual personality and style
+
+#### Community and Neighborhood:
+
+Events, excuses, reasons/ways to make extra effort to know your neighbors
+Participating in community events and activities
+Maintaining property upkeep and contributing to the neighborhood aesthetics
+Being responsible for pets and noise levels
+Reporting suspicious activity and safety concerns
+Supporting local businesses and initiatives
+Volunteering and contributing to the community
+Attending neighborhood meetings and voicing concerns
+Advocating for improvements and developments
+Building positive relationships with neighbors
+
+#### Additional Considerations:
+
+Future needs and potential renovations
+Accessibility updates and aging-in-place considerations
+Pet ownership responsibilities and care
+Hosting guests and overnight visitors
+Emergency preparedness and disaster planning
+Homeowners association rules and regulations (if applicable)
+Lead paint and asbestos testing (if applicable)
+Property boundaries and surveying (if needed)
+Protecting wildlife and natural habitats
+Maintaining healthy indoor air quality and preventing mold
+
+#### Miscellaneous:
+
+Learning basic DIY skills for minor repairs
+Negotiating effectively with contractors and service providers
+Maintaining good relationships with neighbors
+Staying informed about local construction and development projects
+Protecting important documents and valuables
+Creating a comfortable and welcoming home environment for everyone
+Balancing homeownership responsibilities with other aspects of life
+Art, sculpture, and other home decor
+Estate planning and inheritance considerations
+Property value and potential renovations
+Building codes and zoning regulations
+Permits and inspections needed for renovations
+Paperwork and documentation (warranties, insurance policies, home purchase documents)
+Energy efficiency improvements and cost savings
+Tax benefits and deductions for homeowners
+
+
+*Yeah, yeah, yeah, we know ... lots of duplicates ... we're still working on the rest of this list* **There's no end to the issues with owning a home!**
 
-44) 
-
-45)
-
-46)
-
-47)
-
-48)
-
-49)
-
-50) *Yeah, yeah, yeah, we know ... we're still working on the rest of this list* **There's no end to the issues with owning a home!**
-
-51)
-
-52) 
-
-53)
-
-54) 
-
-55)
-
-56)
-
-57)
-
-58)
-
-59)
-
-60)
-
-61)
-
-62) 
-
-63)
-
-64) 
-
-65)
-
-66)
-
-67)
-
-68)
-
-69)
-
-70)
-
-71)
-
-72) 
-
-73)
-
-74) 
-
-75)
-
-76)
-
-77)
-
-78)
-
-79)
-
-80)
-
-81)
-
-82) 
-
-83)
-
-84) 
-
-85)
-
-86)
-
-87)
-
-88)
-
-89)
-
-90)
-
-91)
-
-92) 
-
-93)
-
-94) 
-
-95)
-
-96)
-
-97)
-
-98)
-
-99)
-
-100)
-
-101)
-
-102) 
-
-103)
-
-104) 
-
-105)
-
-106)
-
-107)
-
-108)
-
-109)
-
-110)
-
-111)
-
-112) 
-
-113)
-
-114) 
-
-115)
-
-116)
-
-117)
-
-118)
-
-119)
-
-120)
-
-121)
-
-122)
-
-123)
-
-124)
-
-125)
-
-# Exploratory / Wild Brainstorm Lists ... *which might become reading lists*
-
-
-* 
-
-* 
-
-* 
-
-* 
