@@ -297,4 +297,4 @@ Develop and build a good relationship roofing professionals and roofing designer
 
 Remember, your roof is a crucial part of your home ... rather than just thinking about it as a liability or chore or hassle to replace shingles ... INVEST in your roof's care with an eye updating the roof and possible the siding, perhaps even adding a story or addition with an attrium to an older home!
 
-![Consider how this roof ADDS and completely changes a home enlargement / remodel](HomeRemodel.jpg "Look at how this roof completely changes the look of this home!")
+![Consider how this roof ADDS and completely changes a home enlargement / remodel](https://architizer-prod.imgix.net/media/mediadata/uploads/1678294328143PennStateBehrend_Header3_3000x1250.jpg "Look at how this roof completely changes the look of this home!")
