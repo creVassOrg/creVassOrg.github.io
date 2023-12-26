@@ -295,4 +295,4 @@ Don't be afraid to negotiate costs, but prioritize quality over price.
 Get everything in writing, including estimates, contracts, and warranties.
 Develop and build a good relationship roofing professionals and roofing designers for future needs.
 
-Remember, your roof is a crucial part of your home ... rather than just thinking about it as a liability or chore or hassle to replace shingles ... INVEST in your roof's care with an eye updating the roof and possible the siding, perhaps [even adding a story or addition with an attrium to an older home](https://architizer-prod.imgix.net/media/mediadata/uploads/1678294328143PennStateBehrend_Header3_3000x1250.jpg).
+Remember, your roof is a crucial part of your home ... rather than just thinking about it as a liability or chore or hassle to replace shingles ... INVEST in your roof's care with an eye updating the roof and possible the siding, perhaps [even using a roof mod as an excuse to add a story or an steel-roofed modern addition with a glass attrium to completely change but preserve a much older older home](https://architizer.com/idea/3624203/).
