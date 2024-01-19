@@ -1,6 +1,6 @@
 # Multi-modal AI will make some things radically simpler
 
-For the end user perhaps, who will have *plenty of other things to think about.*
+***For the end user*** ... who will have *even better things to think about in the future* than they do now.
 
 ## But how multi-modal transformer engines enable the simplicity will be necessarily complex.
 
