@@ -1,3 +1,7 @@
+# What if multi-modal LLM artificial intelligence actually made things radically simpler?
+
+EVENTUALLY, the [DRAIN.tips inference engine](https://github.com/DRAINtips) might make it all ***seem*** simple ... but FIRST we'll have to ingest a LOT of repositories of multi-modal materials such as [LAVIS](https://github.com/creVassOrg/LAVIS), [docarray](https://github.com/creVassOrg/docarray), [jina](https://github.com/creVassOrg/jina), [livekit](https://github.com/creVassOrg/livekit).
+
 *Optimizing the neurosphere of work involves improving the DEEP flow of the play of a riveting game.* **SIMPLIFICATION of impossibly tough problems is ALL in the mind.** Better theories come from taking away the noise, eg ***E = mc<sup>2</sup>***
 
 Developers have to ditch the cleverness that clogging their codebases ... but doing this requires admitting that code does not flow ... and THE REASON for that lack of flow is that *many developers try to stuff too much long hair featurebloat* ... 
@@ -11,7 +15,5 @@ Let's re-read [Git Branching](https://git-scm.com/book/en/v2/Git-Branching-Branc
 A ***gitpipe*** is nothing but a likely to be thrown away git ***branch*** that has been created for the sole purpose of staging a soft, mushy, still WORK-IN-PROCESS-EY ***commit*** ... we might want several ***gitpipes*** to hold several different ideas ... but the GOAL of the final master commit is a radically SIMPLER, SMALLER, TIGHTER ***commit*** that make future code more maintainable, more likely to flow. ALWAYS BE SIMPLIFYING the alternative ***gitpipes*** with an eye to selecting the very simplest, tightest, most solid code ... you don't want lots of hair or stringey fur in your code, because *you will get enough of that stuff without trying*.
 
 ### DeepGit is for unclogging clogged ***gitpipes***
-
-What if ML/AI actually made things radically simpler?
 
 HOW does the subconscious process things into a simpler concepts that the conscious mind insists upon making more complex ... what if we could use ML/AI to subconsciously simplify the code we write? 
