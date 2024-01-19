@@ -10,7 +10,7 @@ Developers have to ditch the cleverness that clogging their codebases ... but do
 
 # ... down the ol' ***GITPIPE***.
 
-### WTF is a ***GitPipe***?
+### Wait! WTF is a ***GitPipe***?
 
 Let's re-read [Git Branching](https://git-scm.com/book/en/v2/Git-Branching-Branches-in-a-Nutshell) with some additional focus on [Git Internals - Plumbing and Porcelain](https://git-scm.com/book/en/v2/Git-Internals-Plumbing-and-Porcelain) ... approach this whole thing from a different perspective, with some serious thought given to how we might reduce just shoving things down the gitpipe just because the thing will swallow anything we commit.
 
