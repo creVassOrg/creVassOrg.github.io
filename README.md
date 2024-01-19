@@ -1,4 +1,4 @@
-# What if multi-modal LLM artificial intelligence actually made things radically simpler?
+# Multi-modal AI will make some things radically simpler ... but how it does it necessarily will be complex.
 
 EVENTUALLY, the [DRAIN.tips inference engine](https://github.com/DRAINtips) might make it all ***seem*** simple for the user ... while the DRAIN.tips LLM [transformer engine](https://github.com/creVassOrg/TransformerEngine) pre-digests massive amounts of the multi-modal data into something relatively simple for the inference engine to chew on.
 
