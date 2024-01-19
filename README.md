@@ -6,11 +6,11 @@ But FIRST, it's about data wrangling and speed of communication between the user
 
 *Optimizing the neurosphere of work involves improving the DEEP flow of the play of a riveting game.* **SIMPLIFICATION of impossibly tough problems is ALL in the mind.** Better theories come from taking away the noise, eg ***E = mc<sup>2</sup>***
 
-Developers have to ditch the cleverness that clogging their codebases ... but doing this requires admitting that code does not flow ... and THE REASON for that lack of flow is that *many developers try to stuff too much long hair featurebloat* ... 
+The meta-point we're trying to make here is that developers will end up designing multi-modal LLM systems which are more or less constrained to produce designs which are copies of the CI/CD development and issue-driven discussion structures used by these developers ... which ultimately means that developers have to aggressively simplify, refactor and ditch much of the cleverness that clogging their codebases ... although at first we might need workarounds to get things to work; LATER, we  will be forced to admit that code does not flow ... and THE REASON for that lack of flow is that many developers start off with the mindset that it doesn't matter as long as something ships ... the clogged sewer drain scenario happens after years of trying to stuff *too much long hair featurebloat* ... 
 
 # ... down the ol' ***GITPIPE***.
 
-### Wait! WTF is a ***GitPipe***?
+### Wait a sec! WTF is a ***GitPipe***?
 
 Let's re-read [Git Branching](https://git-scm.com/book/en/v2/Git-Branching-Branches-in-a-Nutshell) with some additional focus on [Git Internals - Plumbing and Porcelain](https://git-scm.com/book/en/v2/Git-Internals-Plumbing-and-Porcelain) ... approach this whole thing from a different perspective, with some serious thought given to how we might reduce just shoving things down the gitpipe just because the thing will swallow anything we commit.
 
