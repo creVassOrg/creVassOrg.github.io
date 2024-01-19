@@ -1,4 +1,4 @@
-*Optimizing the neurosphere of work involves improving the DEEP flow of the play of a riveting game.* **SIMPLIFICATION of impossibly tough problems is ALL in the mind.** Better theories come from taking the complications away, eg *E = mc^2^*
+*Optimizing the neurosphere of work involves improving the DEEP flow of the play of a riveting game.* **SIMPLIFICATION of impossibly tough problems is ALL in the mind.** Better theories come from taking away the noise, eg ***E = mc<sup>2</sup>***
 
 Developers have to ditch the cleverness that clogging their codebases ... but doing this requires admitting that code does not flow ... and THE REASON for that lack of flow is that *many developers try to stuff too much long hair featurebloat* ... 
 
