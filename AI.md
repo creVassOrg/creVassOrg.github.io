@@ -5,25 +5,51 @@ permalink: /AI/
 ---
 
 
-We are building a Deeply Recursive AI NeuralNet (DRAIN) using the Theory of Inventive Problem-Solving (TIPS) approach used in the contradiction matrix ... after we train the DRAIN model, with the large corpus of materials related to home ownership, the model will serve as a basis for smartphone-based inference engine [which will also collect additional data in order to keep training the DRAIN].
+We are building a Deeply Recursive AI NeuralNet (DRAIN) using the [Theory of Inventive Problem-Solving (TIPS)](https://www.triz.co.uk/what-is-triz) approach used in the [contradiction matrix](https://www.researchgate.net/publication/328661782_Altshuller%27s_Contradiction_Matrix_A_Critical_View_and_Best-Practice_Recommendations) ... after we train the DRAIN model, with the large corpus of materials related to home ownership, the model will serve as a basis for smartphone-based inference engine [which will also collect additional data in order to keep training the DRAIN].
 
-At first, the [DRAIN.tips](DRAIN.tips) inference engine will more or less follow the roadmap for AI development that has been used for other large language models such as Llama 2 70B, Bard, Bing or ChatGPT. 
+The [DRAIN.tips](DRAIN.tips) inference engine will more or less follow the roadmap for AI development that has been used for other LARGE Language Models (LLM) such as Llama2_70B, Bard/Gemini, Bing/CoPilot/ChatGPT ... but FIRST we will want to have an understanding of the general lay of the landscape or state of the art in **open source** LLM development.
 
-# Customizing, extending, adapting, and refactoring
+The [Hugging Face Hub](https://huggingface.co/docs/hub/index) is perhaps the first place to start as the most popular and certainly a well-regarded platform for starting the exploration open-source LLMs. They provide a wide range of pre-trained models, tools, and libraries that make it easier to experiment with and deploy natural language processing (NLP) models
+
+However, there are other platforms, resources, archives of papers that we use to explore the open-source LLM landscape:
+
+* [Papers with Code](https://portal.paperswithcode.com/) is a free and open platform for different specialized portals; primarily in [Machine Learning/AI](https://paperswithcode.com/), but also in [Computer Science](https://cs.paperswithcode.com/), [Physics](https://physics.paperswithcode.com/), [Mathematics](https://math.paperswithcode.com/), [Astronomy](https://astro.paperswithcode.com/), and [Statistics](https://stat.paperswithcode.com/) with papers, code, datasets, methods and evaluation tables.
+
+* [Interpreting Context Look-ups in Transformers: Investigating Attention-MLP Interactions](https://arxiv.org/html/2402.15055v1) is a [recent paper in arXiv's Computation and Language category](https://arxiv.org/list/cs.CL/recent) which investigates the interplay between attention heads and specialized “next-token” neurons in the Multilayer Perceptron that predict specific tokens. By prompting an LLM like GPT-4 to explain these model internals, attention mechanisms that activate certain next-token neurons are elucidated. *This is ONE example of the kind of research that is being done in the field of LLMs; it's a good idea to follow the abstracts in the Computation and Language category to stay abreast of ideas in this field.*
+
+* [Allen Institute for AI (AI2)](https://github.com/allenai) is a [research institute that focuses on AI for the common good](https://allenai.org/papers). They have released several [open-source NLP demo, models, tools](https://allenai.org/demos), including the [Longformer](https://www.semanticscholar.org/reader/925ad2897d1b5decbea320d07e99afa9110e09b2) and the [AllenNLP library](https://allenai.org/allennlp).
+
+* [TensorFlow Hub](https://www.tensorflow.org/hub/tutorials) is a repository of pre-trained machine learning models, including LLMs, that can be easily used with the [TensorFlow ecosystem](https://www.tensorflow.org/resources/models-datasets).
+
+* [PyTorch Hub](https://pytorch.org/hub/#model-row) is a repository of pre-trained models for the PyTorch framework, including various NLP models that can be used with the [PyTorch ecosystem](https://pytorch.org/ecosystem/). [Flair](https://github.com/flairNLP) is one example of an open-source framework for state-of-the-art Natural Language Processing (NLP) built on top of PyTorch. It offers a variety of pre-trained models for tasks such as named entity recognition, part-of-speech tagging, and text classification.
+
+* [EleutherAI](https://blog.eleuther.ai/) is a collective of researchers working on open-source AI research. They have released several notable and popular LLMs, which are available on their [EleutherAI GitHub repositories](https://github.com/orgs/EleutherAI/repositories?q=sort%3Astars).
+
+* [NLP-progress](https://nlpprogress.com/) is a [GitHub repository that tracks the progress and state-of-the-art in various NLP tasks](https://github.com/sebastianruder/NLP-progress). It includes links to open-source models, datasets, and research papers, making it a useful resource for discovering LLMs and other NLP models.
+
+* NVIDIA [Megatron-LM](https://github.com/NVIDIA/Megatron-LM)is an open-source repository of code and pre-trained models for large-scale language modeling.
+
+* [Fairseq](https://github.com/facebookresearch/fairseq) is an open-source sequence modeling toolkit developed by [Facebook AI Research (FAIR)](https://opensource.fb.com/projects?categories=artificial_intelligence&search=).
+
+* [PaddleNLP](https://paddlenlp.readthedocs.io/en/latest/) is an open-source natural language processing library developed by [Baidu](https://ai.baidu.com/) that offers a collection of pre-trained models, including LLMs like [ERNIE (Enhanced Representation through kNowledge IntEgration)](https://arxiv.org/abs/1904.09223) *inspired by the [masking strategy of BERT](https://stackoverflow.com/questions/57874584/masking-in-bert)*
+
+* [OpenAI](https://openai.com/research) might not be particularly *open* although they provide API access to their models and have open-sourced some of their research, but mostly OpenAI well-known for its influential LLMs that are the yardstics others are measured by, such as the earlier ChatGPTs and now GPT-4.
+
+# Customizing, extending, adapting, and refactoring open-source LLMs
 
 The following ONLY a starting outline for what is necessary to adapt open-source large language models (LLMs) ... it's only a rough outline of what needs to be done:
 
-## Choose an open-source LLM
+## Choose a few key open-source LLMs to work with
 
-- Research and select different open-source LLMs that might suit needs of the specific AI, such as [llama 2](https://ollama.com/library/llama2), [mistral](https://ollama.com/library/mistral), [gemma](https://ollama.com/library/gemma) [Qwen](https://ollama.com/library/qwen), [nous-hermes2](https://ollama.com/library/nous-hermes2), or [ANY of the different LLMs you can find, especially focusing on the NEWER ones for new ideas and popular ones for a sense of what works](https://ollama.com/library?sort=newest).
-- DEEPLY familiarize yourself with each LLM's architecture, pre-training objectives, and capabilities.
-- CHOOSE the best LLM giving what you've learned about its architecture, pre-training objectives, and especially its capabilities.
+- In order to be able to choose the best candidates to really work with, we will need to research lots of different open-source LLMs to select those few that might best suit our specific AI needs, such as [llama 2](https://ollama.com/library/llama2), [mistral](https://ollama.com/library/mistral), [gemma](https://ollama.com/library/gemma) [Qwen](https://ollama.com/library/qwen), [nous-hermes2](https://ollama.com/library/nous-hermes2), or [ANY of the different LLMs you can find, especially focusing on the NEWER ones for new ideas and popular ones for a sense of what works](https://ollama.com/library?sort=newest).
+- DEEPLY familiarize ourselves with each LLM's architecture, pre-training objectives, and capabilities.
+- CHOOSE or ADAPT the very best LLM giving what we've learned about its architecture, pre-training objectives, and especially its capabilities.
 
 ## Set up the development environment
 
 - Install the necessary dependencies and libraries, such as PyTorch or TensorFlow.
 - Clone the LLM's repository from its open-source platform (e.g., GitHub).
-- Ensure you have the required computational resources (e.g., GPU) for training and fine-tuning the model.
+- Research alternatives and obtain required computational resources (e.g., GPU) for training and fine-tuning the model.
 
 ## Understand the model architecture
 
