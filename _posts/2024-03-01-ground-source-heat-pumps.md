@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Heat Pumps, GSHPs, ASHPs, AHPs, CO2 HPs, Hybrid HPs, and more"
+title:  "GSHPs, ASHPs, AHPs, CO2HPs, HybridHPs & more HEAT PUMPS"
 subtitle:  "If you wanna drive, learn to throw a wrench first!"
 date:   2024-03-01 4:30:00
 categories: template
