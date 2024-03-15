@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "The AWESOME information fount of curated knowledge"
+title:  "The AWESOME information fount of curated ... knowledge"
 subtitle:  "Dig your well before you are thirsty"
 date:   2024-01-01 4:30:00
 categories: template
