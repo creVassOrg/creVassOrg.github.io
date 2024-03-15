@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Let's say that you had a quantum computer powering your HVAC system"
+title:  "Let's say used a quantum computer to pressurize your HVAC system"
 subtitle:  "If you wanna drive, learn to throw a wrench first!"
 date:   2024-02-15 4:30:00
 categories: template
