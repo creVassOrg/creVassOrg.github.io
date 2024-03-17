@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Deterministic, Application-Specific Hardware and Software-Controlled Architectures"
+title:  "Deterministic, Application-Specific Hardware and Software"
 subtitle:  "Dig your well before you are thirsty"
 date:   2024-02-01 4:30:00
 categories: AI
