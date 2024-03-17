@@ -5,9 +5,11 @@ permalink: /Awesome/
 ---
 
 
-*NEVER fix today what you can put off until it becomes the next guy's problem!* ... JUST KIDDING!!!
+*NEVER fix today what you can put off until it goes off warranty and we can sell the sucker a whole new system!* ... JUST KIDDING! We'd never say that! But we all know that planned obsolescency and instilling dependence in the clueless homeowner is the entire basis of the whole HVACR, plumbings, trades industry.
 
-We're all about actually FIXING things by TOTALLY REMOVING the problems that cause them, so ...  **we want to recognize the AWESOMENESS of even tiny steps in the direction of fixing things that will never cause a problem again.**
+We're all about actually FIXING things by TOTALLY REMOVING the problems that cause them, so ...  
+
+**We want to recognize the AWESOMENESS of even tiny steps in the direction of fixing things that will never cause a problem again.**
 
 # Our curated AWESOME lists of different topics in the trades and different homeowner topics
 
