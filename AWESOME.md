@@ -5,9 +5,7 @@ permalink: /Awesome/
 ---
 
 
-LARGE Language Models (LLMs) get trained on REALLY LARGE bodies of text ... like ALL of the Wikipedia entries or ALL of the peer-reviewed journal articles in the Semantic Scholar database or ALL of the texts of the Patents in the USPTO Patent database ... so we are in the process of developing a REALLY LARGE database of all trades and handyman and troubleshooting topics ... ***we'll worry about getting the computing power to train the LLM later,*** *maybe, ideally after someone else has already done it* ... 
-
-Remember our sacred ***creVass*** code: **NEVER fix today what you can put off until it becomes the next guy's problem!**
+**NEVER fix today what you can put off until it becomes the next guy's problem!**
 
 # Our curated AWESOME lists of different topics in the trades and different homeowner topics
 
