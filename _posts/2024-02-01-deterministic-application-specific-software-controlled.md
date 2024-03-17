@@ -2,7 +2,7 @@
 layout: post
 title:  "Deterministic, Application-Specific Hardware and Software-Controlled Architectures"
 subtitle:  "Dig your well before you are thirsty"
-date:   2024-01-01 4:30:00
+date:   2024-02-01 4:30:00
 categories: AI
 ---
 
@@ -12,7 +12,7 @@ We can think about examples of deterministic, application-specific hardware and 
 
 
 
-## Field-Programmable Gate Arrays (FPGAs)**
+## Field-Programmable Gate Arrays (FPGAs)
 
 * **Flexibility:** FPGAs contain reconfigurable logic blocks and interconnects, allowing tailored hardware acceleration for specific algorithms or applications.
 * **Architecture:** Users can design custom neural network architectures or tailor existing ones precisely to the FPGA fabric.
@@ -20,7 +20,7 @@ We can think about examples of deterministic, application-specific hardware and 
 * **Applications:**  Low-latency or power-sensitive edge AI deployment, prototyping of new algorithms, tasks requiring customization.
 * **Examples:**  Xilinx Versal, Intel Agilex
 
-## Application-Specific Integrated Circuits (ASICs)**
+## Application-Specific Integrated Circuits (ASICs)
 
 * **Ultra-Optimized:** ASICs are fully custom-designed for a specific algorithm or set of tasks, maximizing performance and power efficiency. 
 * **Architecture:** The entire chip design is tailored to the intended application, offering the highest level of performance but also the least flexibility.
@@ -29,7 +29,7 @@ We can think about examples of deterministic, application-specific hardware and 
 * **Examples:** Apple's Neural Engine in their mobile devices, various custom ASICs for autonomous vehicle perception.
 
 
-## Advanced or NextGen Tensor Processing Units (TPUs)**
+## Advanced or NextGen Tensor Processing Units (TPUs)
 
 * **Designed for:** Large-scale matrix and vector operations common in deep learning (training and inference).
 * **Architecture:**  TPUs feature many cores optimized for low-precision arithmetic and matrix multiplications, offering massive parallel processing capabilities.
@@ -46,14 +46,14 @@ The LPU's tensor streaming processor (TSP) architecture acts as both a processin
 Groq supports standard machine learning (ML) frameworks such as PyTorch, TensorFlow, and ONNX for inference. Groq does not currently support ML training with the LPU Inference Engine, but for custom development, the GroqWare™ suite, including the Groq Compiler, for optimizing workloads by hand coding to the Groq architecture with more fine-grained control of any GroqChip™ processor. Developer access, including a way obtain API key and and access our [documentation](https://wow.groq.com/docs/), [blog](https://wow.groq.com/blog/) and [news for press](https://wow.groq.com/press/), can be obtained through the [GroqCloud Playground](https://console.groq.com/playground). 
 
 
-## Domain-Specific Software Optimizations**
+## Domain-Specific Software Optimizations
 
 * **Targeted Optimization:** Software frameworks and libraries are being developed that are highly optimized for specific AI tasks or hardware platforms.
 * **Determinism:**  These optimizations can introduce  greater predictability in algorithm execution for specific use cases.
 * **Applications:** Computer vision with libraries like OpenCV optimized for specific processors, natural language processing tuned for neuromorphic chips.
 
 
-## Neuromorphic Computing Chips**
+## Neuromorphic Computing Chips
 
 * **Inspiration:** These chips directly mimic the structure and function of biological neurons and synapses.
 * **Architecture:** They use spiking neural networks (SNNs), which process information as discrete events (spikes) rather than continuous values found in traditional deep neural networks.
