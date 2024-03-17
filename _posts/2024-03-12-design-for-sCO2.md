@@ -2,7 +2,7 @@
 layout: post
 title:  "Supercritical Carbon Dioxide (sCO2) in HVACR/Hot Water"
 subtitle:  "If you wanna drive, learn to throw a wrench first!"
-date:   2024-03-15 4:30:00
+date:   2024-03-12 4:30:00
 categories: template
 ---
 
@@ -44,9 +44,6 @@ The selection between transcritical and subcritical cycles depends on various fa
 
 * These are simplified explanations, and real-world sCO2 cycles might incorporate additional components like intercoolers for further efficiency improvements.
 * Research is ongoing to optimize sCO2 cycles for various applications, including waste heat recovery and integration with renewable energy sources.
-
-
-
 
 * Advantages of sCO2 over traditional refrigerants 
 
