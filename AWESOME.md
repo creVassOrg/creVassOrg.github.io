@@ -5,7 +5,9 @@ permalink: /Awesome/
 ---
 
 
-**NEVER fix today what you can put off until it becomes the next guy's problem!**
+*NEVER fix today what you can put off until it becomes the next guy's problem!* ... JUST KIDDING!!!
+
+We're all about actually FIXING things by TOTALLY REMOVING the problems that cause them, so ...  **we want to recognize the AWESOMENESS of even tiny steps in the direction of fixing things that will never cause a problem again.**
 
 # Our curated AWESOME lists of different topics in the trades and different homeowner topics
 
